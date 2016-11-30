@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("TAG","自定义控件监听");
             }
         });
+        Log.d("TRAG","uihhhhhhhhhhhhhhhhhhhhhh");
     }
 }
